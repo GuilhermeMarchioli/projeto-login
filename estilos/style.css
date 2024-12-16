@@ -27,6 +27,7 @@ main {
 }
 
 div#imagem {
+    display: block;
     background-image: url(../imagens/metal.jpg);
     background-position: center center;
     background-size: cover;
@@ -38,6 +39,7 @@ div#imagem {
 }
 
 div#forms {
+    display: block;
     padding: 10px;
 }
 
